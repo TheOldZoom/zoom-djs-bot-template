@@ -1,0 +1,8 @@
+{
+    "mainColor": "#ffffff",
+    "devGuildIds": ["1229521592606785629"],
+    "devUserIds": ["1041378399005978624"],
+    "onReadyWebhook": true,
+    "onReadyWebhookUrl": "https://discord.com/api/webhooks/1229523760852504576/67FVfLASfjy07oj1Th9QJgMV9hSjDT0iOFAYKUYZOIcEOJcwXl68rRr58df595a7D-Y9",
+    "prefix": "?"
+}

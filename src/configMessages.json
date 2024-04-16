@@ -1,0 +1,7 @@
+{
+    "onReady": {
+    "onReadyMessageWebhook": "**{bot_name}** is now online & is in **{servers_count}** servers!",
+    "onReadyMessage": "{bot_name} is ready & is in {servers_count} servers!"
+    },
+    "Thankforadding": "Thank you for adding **{bot_name}** to **{server_name}**!\nYou can see all my commands by executing /help"
+}
