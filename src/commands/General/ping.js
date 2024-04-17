@@ -4,7 +4,7 @@ module.exports = {
  
     run: ({ interaction, client, handler }) => {
         interaction.reply(`Pong ! 🏓`);
-        setTimeout(() => {
+        setTimeout(() =>{
             interaction.editReply(`Ping: \`${client.ws.ping}ms\``);
         }, 3000)
     },

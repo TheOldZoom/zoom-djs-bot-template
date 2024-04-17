@@ -1,0 +1,22 @@
+{   
+    "General": {
+
+    "ping": {
+        
+        "name": "ping",
+        "description": "Replies with the bot's ping"
+    },
+    "help": {
+        "name": "help",
+        "description": "Replies with the bot's commands"
+    }
+
+},
+    "Moderation": {
+        "ban": {
+            "name": "ban",
+            "description": "Bans a user"
+        }
+    }
+
+}
